@@ -1,0 +1,14 @@
+div{
+    border:1px solid red;
+    width:fit-content;
+    padding: 30px;
+    background-color: aqua;
+}
+body{
+    background-color: green;
+}
+button{
+    background-color: darkorange;
+    color:black;
+    font-size: 22px;
+}
